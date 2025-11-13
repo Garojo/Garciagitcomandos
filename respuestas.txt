@@ -1,0 +1,4 @@
+1.-git init https://github.com/Garojo/Garciagitcomandos.githttps://github.com/Garojo/Garciagitcomandos.git
+
+2.-nano respuestas.txt
+
