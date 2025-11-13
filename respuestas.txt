@@ -15,3 +15,5 @@
 8.- mkdir una && mkdir dos && mkdir trs
 
 9.- nano una/nombre.txt
+
+10.- cp ../una/nombre.txt ../tres
