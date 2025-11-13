@@ -1,4 +1,17 @@
-1.-git init https://github.com/Garojo/Garciagitcomandos.githttps://github.com/Garojo/Garciagitcomandos.git
+1.- git init https://github.com/Garojo/Garciagitcomandos.githttps://github.com/Garojo/Garciagitcomandos.git
 
-2.-nano respuestas.txt
+2.- nano respuestas.txt
 
+3.- git add respuestas.txt
+
+4.- git comit -m "creado respuestas"
+
+5.- git push
+
+6.- mkdir examen
+
+7.- cd examen
+
+8.- mkdir una && mkdir dos && mkdir trs
+
+9.- nano una/nombre.txt
